@@ -4,6 +4,10 @@
 	box-sizing: border-box;
 }
 
+body{
+	font-family: 'Poppins', sans-serif;
+}
+
 .bg-forestGreen{
 	background: #455954;
 }
@@ -20,6 +24,10 @@
 	background-color: #e1dad2   ;
 }
 
+.bg-jean{
+	background-color: #5e7783 ;
+}
+
 .nav-image{
   width: 50px;
   height: 50px;
@@ -33,22 +41,39 @@
 
 .bg-linen{
 	background-color: #dfdbd8;
+	background: url(https://wallpaperaccess.com/full/358800.jpg);
+
+
 	
 }
 
 .aboutme-container{
 	height: 95vh;
-	width: 100%;
 
 }
 
 #navBar{
 	position: sticky;
 	top: 0;
+	z-index: 1;
 }
 
 .footer-height{
-	height: 20vh;
+	height: 5vh;
 }
 
+.profile-image{
+	width: 422px;
+  height: 422px;
+}
+
+
+.bg-gray-opacity-50{
+	background-color: rgba(195, 199, 198, 0.5);
+}
+
+
+.text-color-dark{
+	color: black;
+}
 
