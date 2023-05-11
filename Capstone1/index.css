@@ -1,0 +1,54 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.bg-forestGreen{
+	background: #455954;
+}
+
+.bg-bluem{
+	background-color: #d0d1d3  ;
+}
+
+.bg-cream{
+	background-color: #e2e0d4  ;
+}
+
+.bg-cloud{
+	background-color: #e1dad2   ;
+}
+
+.nav-image{
+  width: 50px;
+  height: 50px;
+  border: 0px solid blue;
+
+}
+
+.nav-text{
+	font-weight: bold;
+}
+
+.bg-linen{
+	background-color: #dfdbd8;
+	
+}
+
+.aboutme-container{
+	height: 95vh;
+	width: 100%;
+
+}
+
+#navBar{
+	position: sticky;
+	top: 0;
+}
+
+.footer-height{
+	height: 20vh;
+}
+
+
